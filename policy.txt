@@ -1,4 +1,4 @@
-This app follow below rules:
+This app follow below rules of Google:
 --------------------------------
 Ads
 We don’t allow apps that contain deceptive or disruptive ads. Ads must only be displayed within the app serving them. We consider ads served in your app as part of your app. The ads shown in your app must be compliant with all our policies. 
